@@ -1,0 +1,14 @@
+C:\SENA\Cuarto Trismetre\bin\Debug\net8.0\Cuarto Trismetre.exe
+C:\SENA\Cuarto Trismetre\bin\Debug\net8.0\Cuarto Trismetre.deps.json
+C:\SENA\Cuarto Trismetre\bin\Debug\net8.0\Cuarto Trismetre.runtimeconfig.json
+C:\SENA\Cuarto Trismetre\bin\Debug\net8.0\Cuarto Trismetre.dll
+C:\SENA\Cuarto Trismetre\bin\Debug\net8.0\Cuarto Trismetre.pdb
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.AssemblyInfoInputs.cache
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.AssemblyInfo.cs
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.csproj.CoreCompileInputs.cache
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.dll
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\refint\Cuarto Trismetre.dll
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.pdb
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\Cuarto Trismetre.genruntimeconfig.cache
+C:\SENA\Cuarto Trismetre\obj\Debug\net8.0\ref\Cuarto Trismetre.dll

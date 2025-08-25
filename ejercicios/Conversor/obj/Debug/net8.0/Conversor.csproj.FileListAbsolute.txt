@@ -1,0 +1,14 @@
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfoInputs.cache
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfo.cs
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.csproj.CoreCompileInputs.cache
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\bin\Debug\net8.0\Conversor.exe
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\bin\Debug\net8.0\Conversor.deps.json
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\bin\Debug\net8.0\Conversor.runtimeconfig.json
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\bin\Debug\net8.0\Conversor.dll
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\bin\Debug\net8.0\Conversor.pdb
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.dll
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\refint\Conversor.dll
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.pdb
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\Conversor.genruntimeconfig.cache
+C:\SENA\Cuarto Trismetre\ejercicios\Conversor\obj\Debug\net8.0\ref\Conversor.dll
