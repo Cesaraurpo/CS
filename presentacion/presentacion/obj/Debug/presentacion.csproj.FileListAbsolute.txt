@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\presentacion.exe
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\presentacion.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\controlador.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\modelo.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\controlador.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\controlador.dll.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\modelo.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\bin\Debug\modelo.dll.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presenta.D2D8CCE5.Up2Date
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.exe
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\presentacion\obj\Debug\presentacion.exe.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\presentacion.exe.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\presentacion.exe
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\presentacion.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\controlador.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\modelo.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\controlador.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\controlador.dll.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\modelo.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\bin\Debug\modelo.dll.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presenta.D2D8CCE5.Up2Date
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.exe
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.exe.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\presentacion\obj\Debug\presentacion.TipoVehi.resources

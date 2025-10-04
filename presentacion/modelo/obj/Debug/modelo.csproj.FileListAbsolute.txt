@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\bin\Debug\modelo.dll.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\bin\Debug\modelo.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\bin\Debug\modelo.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\obj\Debug\modelo.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\modelo\obj\Debug\modelo.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\bin\Debug\modelo.dll.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\bin\Debug\modelo.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\bin\Debug\modelo.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\obj\Debug\modelo.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\modelo\obj\Debug\modelo.pdb

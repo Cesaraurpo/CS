@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\controlador.dll.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\controlador.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\controlador.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\modelo.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\modelo.pdb
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\bin\Debug\modelo.dll.config
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\obj\Debug\controlador.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\obj\Debug\controlador.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\obj\Debug\controla.4C616FEF.Up2Date
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\obj\Debug\controlador.dll
+C:\Users\User\source\repos\wilsonvisualstudio\presentacion\controlador\obj\Debug\controlador.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\controlador.dll.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\controlador.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\controlador.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\modelo.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\modelo.pdb
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\bin\Debug\modelo.dll.config
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\obj\Debug\controlador.csproj.AssemblyReference.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\obj\Debug\controlador.csproj.CoreCompileInputs.cache
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\obj\Debug\controla.4C616FEF.Up2Date
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\obj\Debug\controlador.dll
+C:\SENA\Cuarto Trismetre\Desarrollo en C#\presentacion\presentacion\controlador\obj\Debug\controlador.pdb
