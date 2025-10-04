@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SENA\\Cuarto Trismetre\\Desarrollo en C#\\csharp_ejemplos\\csharp_ejemplos.csproj": {}
+  },
+  "projects": {
+    "C:\\SENA\\Cuarto Trismetre\\Desarrollo en C#\\csharp_ejemplos\\csharp_ejemplos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SENA\\Cuarto Trismetre\\Desarrollo en C#\\csharp_ejemplos\\csharp_ejemplos.csproj",
+        "projectName": "csharp_ejemplos",
+        "projectPath": "C:\\SENA\\Cuarto Trismetre\\Desarrollo en C#\\csharp_ejemplos\\csharp_ejemplos.csproj",
+        "packagesPath": "C:\\Users\\Laptop MSI GL75 9SEK\\.nuget\\packages\\",
+        "outputPath": "C:\\SENA\\Cuarto Trismetre\\Desarrollo en C#\\csharp_ejemplos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laptop MSI GL75 9SEK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
